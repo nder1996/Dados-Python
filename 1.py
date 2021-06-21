@@ -21,7 +21,7 @@ def Jugar():
     while Num!="-1":
       TirarDados()   
       print("\n¿Desea tirar los dados?,ingrese cualquier numero para seguir jugando")
-      Num=input("De lo contrario puede ingresar el numero -1 : ")
+      Num=input("De lo contrario puede ingresar el numero -1 ola mundo como estas: ")
       
       
 Jugar()
